@@ -1,0 +1,6 @@
+*.png binary -delta
+*.jpg binary -delta
+*.wav binary -delta
+*.ogg binary -delta
+*.glb binary -delta
+*.fbx binary -delta
